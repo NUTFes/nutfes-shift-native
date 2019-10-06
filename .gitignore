@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/**/*
+.expo
+.expo-shared
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+env.json

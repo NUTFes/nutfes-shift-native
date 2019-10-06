@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "nutfes-shift-app",
+    "slug": "nutfes-shift-app",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "5.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "net.nutfes.nutfes-shift-app"
+    },
+    "android": {
+      "package": "net.nutfes.nutfes_shift_app_v2",
+      "versionCode": 4
+    },
+    "packagerOpts": {
+      "nonPersistent": true
+    },
+    "description": ""
+  }
+}
