@@ -10,4 +10,8 @@ iOSスクリーンショット:
 プロジェクト全体図:
 ![image2](https://github.com/NUTFes/nutfes-shift-native/blob/master/assets/readme_image2.png)
 
-セットアップ -> [docs/setup.md](https://github.com/NUTFes/nutfes-shift-native/blob/master/docs/setup.md)
+セットアップ → [docs/setup.md](https://github.com/NUTFes/nutfes-shift-native/blob/master/docs/setup.md)
+
+Web版 → https://github.com/youichiro/nutfes-shift-web<br>
+管理画面, API → https://github.com/youichiro/nutfes-shift-app
+
